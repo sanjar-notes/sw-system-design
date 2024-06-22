@@ -1,5 +1,4 @@
 [
-  "obsidian-banners",
   "obsidian-linter",
   "obsidian-diagrams-net",
   "table-editor-obsidian",
@@ -11,5 +10,6 @@
   "various-complements",
   "recent-files-obsidian",
   "obsidian-review-notes-plugin",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-sequence-hotkeys"
 ]
